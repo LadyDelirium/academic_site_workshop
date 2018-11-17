@@ -10,14 +10,13 @@ PhD Candidate
 `2008 - 2012`
 __University of Texas at Austin__
 B.S. Biology
-Minor in Consciousness Studies
 
 ## Awards
 
-`2016`
+`2016-2019`
 NSF Graduate Research Fellowship
 
-`2015`
+`2015-2018`
 ARCS Scholar, ARCS Portland Chapter
 
 ## Publications
