@@ -6,14 +6,14 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Sami Friedrich
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Sami Friedrich grew up in Austin, TX. In 2012, she earned a B.S. in Biology from the University of Texas at Austin and also completed a self-made minor in Consciousness Studies through the Texas Interdisciplinary Program. After graduating, she worked at the Univeristy of Texas for three years as a technician in the lab of Dr. Mike Mauk where her was research centered around how the prefrontal cortex helps us learn to precisely time our movements. In June of 2015, Sami moved to Portland to pursue her PhD in the department of Behavioral Neuroscience at OHSU. She joined the lab of Dr. Claudio Mello where she is starting her thesis work on the neural and genetic mechanisms of vocal learning. Sami has been fortunate to receive generous support from the ARCS Foundation, as well as a Graduate Student Research Fellowship from the National Science Foundation. When not mining through genomes or inspecting bird brains in the lab, she enjoys cooking, reading, exploring the glorious outdoors, and watching terrible B-movies with friends."
+  email: friedris@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: SamiFriedrich
+  linkedin: sami-friedrich
+  github: LadyDelirium
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
