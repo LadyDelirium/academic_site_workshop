@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD Candidate
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008 - 2012`
+__University of Texas at Austin__
+B.S. Biology
+Minor in Consciousness Studies
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+NSF Graduate Research Fellowship
+
+`2015`
+ARCS Scholar, ARCS Portland Chapter
 
 ## Publications
 
